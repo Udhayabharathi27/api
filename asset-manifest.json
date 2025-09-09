@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Udhayabharathi27/api.git/static/css/main.a4bffc2c.css",
+    "main.js": "/Udhayabharathi27/api.git/static/js/main.cf503397.js",
+    "static/js/453.cce467f2.chunk.js": "/Udhayabharathi27/api.git/static/js/453.cce467f2.chunk.js",
+    "index.html": "/Udhayabharathi27/api.git/index.html",
+    "main.a4bffc2c.css.map": "/Udhayabharathi27/api.git/static/css/main.a4bffc2c.css.map",
+    "main.cf503397.js.map": "/Udhayabharathi27/api.git/static/js/main.cf503397.js.map",
+    "453.cce467f2.chunk.js.map": "/Udhayabharathi27/api.git/static/js/453.cce467f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4bffc2c.css",
+    "static/js/main.cf503397.js"
+  ]
+}
